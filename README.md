@@ -45,7 +45,7 @@ cargo tauri dev
 
 ## Download (for most users)
 
-EXE build is available on the [Releases](https://github.com/KenB773/QuickIncidentTriageToolkit/releases) page.
+MSI build is available on the [Releases](https://github.com/KenB773/QuickIncidentTriageToolkit/releases) page.
 
 ---
 
